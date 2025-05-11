@@ -20,7 +20,9 @@ Diabetes Prediction Dataset by Mohammed Mustafa:
 ## 📁 Project Structure
 
 ├── diapred.ipynb # Main Jupyter notebook
+
 ├── README.md # Project documentation
+
 └── diabetes_prediction_dataset.csv
 
 
