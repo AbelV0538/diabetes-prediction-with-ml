@@ -27,7 +27,7 @@ Diabetes Prediction Dataset by Mohammed Mustafa:
 
 
 
-## Important!
+## Important
   • This is an educational project and is not intended for production and should not be given much merit in professional settings.
 
 
