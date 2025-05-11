@@ -6,7 +6,7 @@ This repository is a beginner-level application of K-NN and LOG-REG machine lear
 
 Diabetes Prediction Dataset by Mohammed Mustafa:
 
-**[https://www.kaggle.com/datasets/amanalisiddiqui/fraud-detection-dataset](https://www.kaggle.com/datasets/iammustafatz/diabetes-prediction-dataset]**
+**[https://www.kaggle.com/datasets/iammustafatz/diabetes-prediction-dataset]**
 
 
 ## Requirements to work the Repository
